@@ -1,0 +1,3 @@
+sqlitemodel==0.1.3
+requests==2.25.1
+pylint==2.8.2

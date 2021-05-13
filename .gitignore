@@ -1,0 +1,14 @@
+# DB Files
+geo_ip.db
+
+# Linting Outputs
+linting
+
+# Venv
+vent
+
+# IDE
+.vscode
+
+# Python Cache
+*/**/__pycache__
